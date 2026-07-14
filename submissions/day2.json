@@ -1,0 +1,19 @@
+{
+  "day": 2,
+  "student_name": "Munish Abhiram B",
+  "github": "MunishAbhiram",
+  "lab1_scenario": "A",
+  "lab1_prompt": "Samsung post-sale service expert\n\n\n\nDrafting an email reply to the customer\n\n\n\nContext: A customer's 3rd Galaxy Watch battery complaint this month, still under warranty.\n\n\n\nConstraints: Keep it respectful and formal.\n\nDo not promise a refund.\n\n\n\nTone: Be calm and clear\n\n\n\nOutput format: email",
+  "lab1_output_met_constraints": true,
+  "lab1_extra_scenarios_done": 1,
+  "lab2_problem": "Galaxy Buds distribution centre — shipment/hold/restock",
+  "lab2_naive_output_summary": "the ai gave me step by step calculations of the math",
+  "lab2_cot_prompt": "Work through this one step at a time: first compute the shipment stock 4200, then sent 850, then the hold 201, then the restock 4299. Show each step, then state the final answer.",
+  "lab2_cot_output_summary": "same number and the steps are right",
+  "better_approach": "naive",
+  "stretch_done": true,
+  "stretch_react_prompt": "got almost the same type of answer",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-14T09:40:45.561Z"
+}
