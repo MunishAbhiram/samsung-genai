@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Munish Abhiram B",
+  "github": "MunishAbhiram",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "A",
+  "rag_no_rag_summary": "The AI said the screen is not covered after 14 months because the standard warranty is usually 12 months. It also mentioned Samsung Care+ might cover it.",
+  "rag_grounded_summary": "The AI used the provided document and correctly said the screen is not covered unless the customer has an active Samsung Care+ plan. It gave a support reply based only on the document.",
+  "rag_judgement": "confirmed_right",
+  "stretch_done": true,
+  "stretch_notes": "If the document says the Galaxy Watch6 has a 24-month warranty covering cracked screens, but the model already \"knows\" it's usually 12 months, the RAG document wins because the model should follow the provided information",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T09:11:19.947Z"
+}
