@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Munish Abhiram B",
+  "github": "MunishAbhiram",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "the support bot made up a discount that was never actually offered so it comes under hallucination and that makes it a reliability issue."
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Privacy",
+      "justification": "The chat assistant was logging every message of the user without the user's consent making it a privacy violation"
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Accountability",
+      "justification": "A deepfake of the business leader was made and through it, misinformation was spread hence this is an accountability issue."
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "This model has a gender bias as the applicants who attended certain women's colleges were down ranked, this affects the fairness."
+    },
+    {
+      "id": "E",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Inclusiveness",
+      "justification": "The moderation system was against a certain community making it biased and violating the inclusivity policy."
+    },
+    {
+      "id": "F",
+      "failure_type": "Security Breach",
+      "principle": "Security",
+      "justification": "Scammers breached the security through a fake phone call and made a staff member authorize a wire transfer. breaches security"
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "grok",
+  "stretch_failure_type": "Deepfake/Misinformation",
+  "stretch_principle": "Privacy",
+  "stretch_notes": "X (twitter) users used the grok ai to create deepfake images of celebrities. Groks policy was later updated and it no longer accepts such prompts.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:25:07.126Z"
+}
